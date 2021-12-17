@@ -4,7 +4,7 @@ This project is a traffic simulation which uses an animator to
 display vehicles, traffic lights, an intersection, and lanes of traffic.
 The vehicles include cars, SUVs, and trucks.
 
-This was implemented by Zohaib, Rinki, Hannah, and Zach.
+This was implemented by Zohaib and Rinki.
 This is version 1 of the project.
 
 # Getting Started!
