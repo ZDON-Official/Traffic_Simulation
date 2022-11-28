@@ -67,7 +67,7 @@ We roll each vehicle in order.
 
 ### Despawning After Spawning / Fully Rolling
 We added a despawn attribute to vehicleBases to make sure cars that have
-spawned/fully rolled into the road then sucessfully rolled off the road
+spawned/fully rolled into the road then successfully rolled off the road
 can be kept track of. This prevents the code from accessing any vehicle that
 have despawned and are no longer needed to preform any changes to.
 
